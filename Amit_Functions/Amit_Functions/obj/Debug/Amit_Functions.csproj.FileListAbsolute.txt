@@ -1,0 +1,5 @@
+G:\IMS\Amit_Functions\Amit_Functions\bin\Debug\Amit_Functions.dll
+G:\IMS\Amit_Functions\Amit_Functions\bin\Debug\Amit_Functions.pdb
+G:\IMS\Amit_Functions\Amit_Functions\obj\Debug\Amit_Functions.dll
+G:\IMS\Amit_Functions\Amit_Functions\obj\Debug\Amit_Functions.pdb
+G:\IMS\Amit_Functions\Amit_Functions\obj\Debug\Amit_Functions.csprojResolveAssemblyReference.cache

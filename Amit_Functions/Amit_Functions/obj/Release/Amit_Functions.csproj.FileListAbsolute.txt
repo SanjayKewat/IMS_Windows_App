@@ -1,0 +1,10 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\Amit_Functions\bin\Release\Amit_Functions.dll
+C:\Users\Administrator\AppData\Local\Temporary Projects\Amit_Functions\bin\Release\Amit_Functions.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\Amit_Functions\obj\Release\Amit_Functions.dll
+C:\Users\Administrator\AppData\Local\Temporary Projects\Amit_Functions\obj\Release\Amit_Functions.pdb
+G:\IMS\Amit_Functions\Amit_Functions\bin\Release\Amit_Functions.dll
+G:\IMS\Amit_Functions\Amit_Functions\bin\Release\Amit_Functions.pdb
+G:\IMS\Amit_Functions\Amit_Functions\bin\Release\Amit_Functions.dll.CodeAnalysisLog.xml
+G:\IMS\Amit_Functions\Amit_Functions\bin\Release\Amit_Functions.dll.lastcodeanalysissucceeded
+G:\IMS\Amit_Functions\Amit_Functions\obj\Release\Amit_Functions.dll
+G:\IMS\Amit_Functions\Amit_Functions\obj\Release\Amit_Functions.pdb

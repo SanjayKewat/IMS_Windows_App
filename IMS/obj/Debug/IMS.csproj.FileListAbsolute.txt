@@ -1,0 +1,141 @@
+D:\Windows-Software\IMS\IMS\bin\Debug\IMS.exe.config
+D:\Windows-Software\IMS\IMS\bin\Debug\IMS.exe
+D:\Windows-Software\IMS\IMS\bin\Debug\IMS.pdb
+D:\Windows-Software\IMS\IMS\obj\Debug\IMS.csprojResolveAssemblyReference.cache
+D:\Windows-Software\IMS\IMS\obj\Debug\IMS.welcome.resources
+D:\Windows-Software\IMS\IMS\obj\Debug\IMS.Properties.Resources.resources
+D:\Windows-Software\IMS\IMS\obj\Debug\IMS.csproj.GenerateResource.Cache
+D:\Windows-Software\IMS\IMS\obj\Debug\IMS.exe
+D:\Windows-Software\IMS\IMS\obj\Debug\IMS.pdb
+D:\Windows-Software\IMS\IMS\obj\Debug\IMS.login.resources
+D:\Windows-Software\IMS\IMS\obj\Debug\IMS.home.resources
+D:\Windows-Software\IMS\IMS\obj\Debug\IMS.frmMain.resources
+D:\Windows-Software\IMS\IMS\obj\Debug\IMS.users.resources
+D:\Windows-Software\IMS\IMS\obj\Debug\IMS.Customers.frmCustomers.resources
+G:\New folder\IMS\IMS\bin\Debug\IMS.exe.config
+G:\New folder\IMS\IMS\obj\Debug\IMS.exe
+G:\New folder\IMS\IMS\obj\Debug\IMS.pdb
+G:\New folder\IMS\IMS\bin\Debug\IMS.exe
+G:\New folder\IMS\IMS\bin\Debug\IMS.pdb
+G:\New folder\IMS\IMS\obj\Debug\IMS.csprojResolveAssemblyReference.cache
+G:\New folder\IMS\IMS\obj\Debug\IMS.Customers.frmCustomers.resources
+G:\New folder\IMS\IMS\obj\Debug\IMS.frmMain.resources
+G:\New folder\IMS\IMS\obj\Debug\IMS.login.resources
+G:\New folder\IMS\IMS\obj\Debug\IMS.users.resources
+G:\New folder\IMS\IMS\obj\Debug\IMS.welcome.resources
+G:\New folder\IMS\IMS\obj\Debug\IMS.Properties.Resources.resources
+G:\New folder\IMS\IMS\obj\Debug\IMS.csproj.GenerateResource.Cache
+G:\New folder\IMS\IMS\obj\Debug\IMS.frmBackup.resources
+G:\New folder\IMS\IMS\obj\Debug\IMS.Category.frmCategory.resources
+G:\IMS\IMS\bin\Debug\IMS.exe.config
+G:\IMS\IMS\obj\Debug\IMS.exe
+G:\IMS\IMS\obj\Debug\IMS.pdb
+G:\IMS\IMS\bin\Debug\IMS.exe
+G:\IMS\IMS\bin\Debug\IMS.pdb
+G:\IMS\IMS\obj\Debug\IMS.csprojResolveAssemblyReference.cache
+G:\IMS\IMS\obj\Debug\IMS.Category.frmCategory.resources
+G:\IMS\IMS\obj\Debug\IMS.Customers.frmCustomers.resources
+G:\IMS\IMS\obj\Debug\IMS.frmBackup.resources
+G:\IMS\IMS\obj\Debug\IMS.frmMain.resources
+G:\IMS\IMS\obj\Debug\IMS.login.resources
+G:\IMS\IMS\obj\Debug\IMS.users.resources
+G:\IMS\IMS\obj\Debug\IMS.welcome.resources
+G:\IMS\IMS\obj\Debug\IMS.Properties.Resources.resources
+G:\IMS\IMS\obj\Debug\IMS.csproj.GenerateResource.Cache
+G:\IMS\IMS\obj\Debug\IMS.Users.add_usr_frm.resources
+G:\IMS\IMS\obj\Debug\IMS.Customers.frmAddCustomer.resources
+D:\working\IMS\IMS\bin\Debug\IMS.exe.config
+D:\working\IMS\IMS\obj\Debug\IMS.exe
+D:\working\IMS\IMS\obj\Debug\IMS.pdb
+D:\working\IMS\IMS\bin\Debug\IMS.exe
+D:\working\IMS\IMS\bin\Debug\IMS.pdb
+D:\working\IMS\IMS\obj\Debug\IMS.csprojResolveAssemblyReference.cache
+D:\working\IMS\IMS\obj\Debug\IMS.Category.frmCategory.resources
+D:\working\IMS\IMS\obj\Debug\IMS.Customers.frmAddCustomer.resources
+D:\working\IMS\IMS\obj\Debug\IMS.Customers.frmCustomers.resources
+D:\working\IMS\IMS\obj\Debug\IMS.frmBackup.resources
+D:\working\IMS\IMS\obj\Debug\IMS.frmMain.resources
+D:\working\IMS\IMS\obj\Debug\IMS.login.resources
+D:\working\IMS\IMS\obj\Debug\IMS.Users.add_usr_frm.resources
+D:\working\IMS\IMS\obj\Debug\IMS.users.resources
+D:\working\IMS\IMS\obj\Debug\IMS.welcome.resources
+D:\working\IMS\IMS\obj\Debug\IMS.Properties.Resources.resources
+D:\working\IMS\IMS\obj\Debug\IMS.csproj.GenerateResource.Cache
+G:\IMS\IMS\obj\Debug\IMS.Customers.frmEditCustomer.resources
+G:\IMS\IMS\obj\Debug\IMS.frmRole_Permissins.resources
+G:\IMS\IMS\obj\Debug\IMS.Category.frmAddCategory.resources
+G:\IMS\IMS\obj\Debug\IMS.Suppliers.add_suuplier.resources
+G:\IMS\IMS\obj\Debug\IMS.Suppliers.Edit_supplier.resources
+G:\IMS\IMS\obj\Debug\IMS.Suppliers.suppliers.resources
+G:\IMS\IMS\obj\Debug\IMS.Suppliers.view_supplier.resources
+G:\IMS\IMS\obj\Debug\IMS.Users.Edituser.resources
+G:\IMS\IMS\obj\Debug\IMS.Category.frmEditCategory.resources
+G:\IMS\IMS\obj\Debug\IMS.role.resources
+D:\working\IMS\IMS\obj\Debug\IMS.Category.frmAddCategory.resources
+D:\working\IMS\IMS\obj\Debug\IMS.Category.frmAddProductDet.resources
+D:\working\IMS\IMS\obj\Debug\IMS.Category.frmEditCategory.resources
+D:\working\IMS\IMS\obj\Debug\IMS.Category.frmProductDetail.resources
+D:\working\IMS\IMS\obj\Debug\IMS.Customers.frmEditCustomer.resources
+D:\working\IMS\IMS\obj\Debug\IMS.frmRole_Permissins.resources
+D:\working\IMS\IMS\obj\Debug\IMS.role.resources
+D:\working\IMS\IMS\obj\Debug\IMS.Suppliers.add_suuplier.resources
+D:\working\IMS\IMS\obj\Debug\IMS.Suppliers.Edit_supplier.resources
+D:\working\IMS\IMS\obj\Debug\IMS.Suppliers.suppliers.resources
+D:\working\IMS\IMS\obj\Debug\IMS.Suppliers.view_supplier.resources
+D:\working\IMS\IMS\obj\Debug\IMS.Users.Edituser.resources
+D:\working\IMS\IMS\obj\Debug\IMS.Category.frmEditProductDet.resources
+G:\IMS\IMS\obj\Debug\IMS.Inventory.frmInventory.resources
+G:\IMS\IMS\obj\Debug\IMS.Inventory.frmAddItem.resources
+E:\working\IMS\IMS\bin\Debug\IMS.exe.config
+E:\working\IMS\IMS\obj\Debug\IMS.exe
+E:\working\IMS\IMS\obj\Debug\IMS.pdb
+E:\working\IMS\IMS\bin\Debug\IMS.exe
+E:\working\IMS\IMS\bin\Debug\IMS.pdb
+E:\working\IMS\IMS\obj\Debug\IMS.csprojResolveAssemblyReference.cache
+E:\working\IMS\IMS\obj\Debug\IMS.Category.frmAddCategory.resources
+E:\working\IMS\IMS\obj\Debug\IMS.Category.frmCategory.resources
+E:\working\IMS\IMS\obj\Debug\IMS.Category.frmEditCategory.resources
+E:\working\IMS\IMS\obj\Debug\IMS.Customers.frmAddCustomer.resources
+E:\working\IMS\IMS\obj\Debug\IMS.Customers.frmCustomers.resources
+E:\working\IMS\IMS\obj\Debug\IMS.Customers.frmEditCustomer.resources
+E:\working\IMS\IMS\obj\Debug\IMS.frmBackup.resources
+E:\working\IMS\IMS\obj\Debug\IMS.frmMain.resources
+E:\working\IMS\IMS\obj\Debug\IMS.frmRole_Permissins.resources
+E:\working\IMS\IMS\obj\Debug\IMS.Inventory.frmAddItem.resources
+E:\working\IMS\IMS\obj\Debug\IMS.Inventory.frmInventory.resources
+E:\working\IMS\IMS\obj\Debug\IMS.login.resources
+E:\working\IMS\IMS\obj\Debug\IMS.role.resources
+E:\working\IMS\IMS\obj\Debug\IMS.Suppliers.add_suuplier.resources
+E:\working\IMS\IMS\obj\Debug\IMS.Suppliers.Edit_supplier.resources
+E:\working\IMS\IMS\obj\Debug\IMS.Suppliers.suppliers.resources
+E:\working\IMS\IMS\obj\Debug\IMS.Suppliers.view_supplier.resources
+E:\working\IMS\IMS\obj\Debug\IMS.Users.add_usr_frm.resources
+E:\working\IMS\IMS\obj\Debug\IMS.Users.Edituser.resources
+E:\working\IMS\IMS\obj\Debug\IMS.users.resources
+E:\working\IMS\IMS\obj\Debug\IMS.welcome.resources
+E:\working\IMS\IMS\obj\Debug\IMS.Properties.Resources.resources
+E:\working\IMS\IMS\obj\Debug\IMS.csproj.GenerateResource.Cache
+G:\IMS\IMS\obj\Debug\IMS.Inventory.frmEditItem.resources
+G:\IMS\IMS\bin\Debug\AMIT_FUNCTIONS.dll
+G:\IMS\IMS\bin\Debug\AMIT_FUNCTIONS.pdb
+E:\working\IMS\IMS\obj\Debug\IMS.Inventory.frmEditItem.resources
+E:\working\IMS\IMS\bin\Debug\AMIT_FUNCTIONS.dll
+E:\working\IMS\IMS\bin\Debug\AMIT_FUNCTIONS.pdb
+G:\IMS\IMS\obj\Debug\IMS.Purchase.frmPurchase.resources
+G:\IMS\IMS\obj\Debug\IMS.Purchase.frmPayment.resources
+G:\IMS\IMS\obj\Debug\IMS.Purchase.frmPurchaseReturn.resources
+G:\IMS\IMS\obj\Debug\IMS.frmFinancialYear.resources
+G:\IMS\IMS\obj\Debug\IMS.frmReport.resources
+E:\working\IMS\IMS\obj\Debug\IMS.frmFinancialYear.resources
+E:\working\IMS\IMS\obj\Debug\IMS.frmReport.resources
+E:\working\IMS\IMS\obj\Debug\IMS.Purchase.frmPayment.resources
+E:\working\IMS\IMS\obj\Debug\IMS.Purchase.frmPurchase.resources
+E:\working\IMS\IMS\obj\Debug\IMS.Purchase.frmPurchaseReturn.resources
+E:\working\IMS\IMS\obj\Debug\IMS.Sale.frmSale.resources
+G:\IMS\IMS\obj\Debug\IMS.Sale.frmSale.resources
+G:\IMS\IMS\obj\Debug\IMS.Account.frmAccount.resources
+G:\IMS\IMS\obj\Debug\IMS.frmDate_Selection.resources
+G:\IMS\IMS\obj\Debug\IMS.Sale.frmSaleout.resources
+G:\IMS\IMS\obj\Debug\IMS.Sale.frmOrder.resources
+G:\IMS\IMS\obj\Debug\IMS.Sale.frmSaleReceipt.resources
+G:\IMS\IMS\obj\Debug\IMS.Sale.frmSaleReturn.resources
